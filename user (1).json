@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": {
+        "id": 5058,
+        "name": "Joseph99",
+        "surname": "",
+        "gender": "",
+        "phone": "",
+        "email": "yusuf.togtay@gmail.com",
+        "avatar": "http://127.0.0.1:8000/storage/1/avatar_default_temp.png",
+        "rating": "5.5",
+        "number_of_adverts": 26,
+        "number_of_favorite_adverts": 3,
+        "number_of_my_favorite_adverts": 1,
+        "number_of_free_ads_remaining": 4
+    },
+    "message": "User",
+    "meta": {
+        "locale": "en"
+    }
+}

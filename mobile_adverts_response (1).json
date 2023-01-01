@@ -1,0 +1,161 @@
+{
+    "success": true,
+    "data": {
+        "current_page": 2,
+        "data": {
+            "2": {
+                "id": 5,
+                "name": "",
+                "url": "http://127.0.0.1:8000/api/v1/adverts/5",
+                "sub_category": "Iusto illum adipisci excepturi nihil ut. Laboriosam nesciunt fugit libero iste ut eos. Sint accusantium accusantium numquam. Voluptas cupiditate autem omnis molestiae labore est.",
+                "price": 3529.01,
+                "discount_price": null,
+                "currency": "EUR",
+                "currency_symbol": "€",
+                "medias": [
+                    {
+                        "original_url": "http://127.0.0.1:8000/storage/16731/5.jpeg",
+                        "icon_url": "http://127.0.0.1:8000/storage/16731/conversions/5-icon.jpg",
+                        "thumb_url": "http://127.0.0.1:8000/storage/16731/conversions/5-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Bridie Kling IV",
+                "seller_mail": "olin24@example.net",
+                "seller_phone": "+905319117800",
+                "created_at": "1983-12-01 11:12:25",
+                "updated_at": "1983-11-28 23:11:07",
+                "bargain": true,
+                "product_status": "open boxx",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": "aut",
+                "description": "accusantium"
+            },
+            "3": {
+                "id": 6,
+                "name": "",
+                "url": "http://127.0.0.1:8000/api/v1/adverts/6",
+                "sub_category": "Sunt quidem ipsa assumenda aut sapiente suscipit. Dolore commodi occaecati nesciunt. Numquam fugit aperiam vero aut nesciunt quia doloremque. Laudantium quasi sed minus eaque voluptatibus quia omnis.",
+                "price": 36773.08,
+                "discount_price": null,
+                "currency": "EUR",
+                "currency_symbol": "€",
+                "medias": [
+                    {
+                        "original_url": "http://127.0.0.1:8000/storage/16733/6.jpeg",
+                        "icon_url": "http://127.0.0.1:8000/storage/16733/conversions/6-icon.jpg",
+                        "thumb_url": "http://127.0.0.1:8000/storage/16733/conversions/6-thumb.jpg"
+                    }
+                ],
+                "seller_name": "Michel Kiehn IV",
+                "seller_mail": "fwilkinson@example.org",
+                "seller_phone": "+905319117800",
+                "created_at": "1971-10-09 13:10:06",
+                "updated_at": "1973-04-13 15:04:27",
+                "bargain": true,
+                "product_status": "neww",
+                "has_ads": true,
+                "ad_types": [
+                    "homepage",
+                    "showcase"
+                ],
+                "description_summary": "qui",
+                "description": "dolorem"
+            }
+        },
+        "first_page_url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=1",
+        "from": 3,
+        "last_page": 140327,
+        "last_page_url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=140327",
+        "links": [
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=1",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=2",
+                "label": "2",
+                "active": true
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=140326",
+                "label": "140326",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=140327",
+                "label": "140327",
+                "active": false
+            },
+            {
+                "url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=3",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=3",
+        "path": "http://127.0.0.1:8000/api/v1/mobileAdverts",
+        "per_page": 2,
+        "prev_page_url": "http://127.0.0.1:8000/api/v1/mobileAdverts?page=1",
+        "to": 4,
+        "total": 280653
+    },
+    "message": "Adverts retrieved successfully.",
+    "meta": {
+        "locale": "en"
+    }
+}

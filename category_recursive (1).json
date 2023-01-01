@@ -1,0 +1,430 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Akıllı Telefonlar",
+            "description": "Omnis velit laborum vitae facere illo voluptatum quasi. Fugiat nam aliquam rerum sunt exercitationem et. Voluptates est non deserunt sit aliquid minima. Officia ea est beatae incidunt ratione earum.",
+            "parent_id": 3,
+            "created_at": "1972-07-28 23:07:06",
+            "updated_at": "2022-12-31 07:12:03",
+            "parent": {
+                "id": 3,
+                "name": "Telefonlar",
+                "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+                "parent_id": 4,
+                "created_at": "1972-08-28 07:08:27",
+                "updated_at": "2022-12-31 07:12:27",
+                "parent": {
+                    "id": 4,
+                    "name": "Telefon",
+                    "description": "Vel et qui velit nemo. Consequatur deleniti quibusdam laboriosam laboriosam sed aut labore. Expedita id officia quibusdam amet quam vel quae nostrum.",
+                    "parent_id": null,
+                    "created_at": "1985-05-08 03:05:54",
+                    "updated_at": "2022-12-26 14:12:22",
+                    "parent": null,
+                    "children": [
+                        {
+                            "id": 3,
+                            "name": "Telefonlar",
+                            "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+                            "parent_id": 4,
+                            "created_at": "1972-08-28T07:13:27.000000Z",
+                            "updated_at": "2022-12-31T07:28:27.000000Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": 5,
+                            "name": "Telefon Aksesuarları",
+                            "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+                            "parent_id": 4,
+                            "created_at": "1973-05-24T08:10:52.000000Z",
+                            "updated_at": "2022-12-31T07:28:12.000000Z",
+                            "deleted_at": null
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": 1,
+                        "name": "Akıllı Telefonlar",
+                        "description": "Omnis velit laborum vitae facere illo voluptatum quasi. Fugiat nam aliquam rerum sunt exercitationem et. Voluptates est non deserunt sit aliquid minima. Officia ea est beatae incidunt ratione earum.",
+                        "parent_id": 3,
+                        "created_at": "1972-07-28T23:07:06.000000Z",
+                        "updated_at": "2022-12-31T07:31:03.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": []
+        },
+        {
+            "id": 2,
+            "name": "Bilgisayar",
+            "description": "Aperiam harum qui porro quia suscipit non aut ut. Consequatur aperiam temporibus consequatur vero quasi numquam.",
+            "parent_id": null,
+            "created_at": "1983-06-07 08:06:37",
+            "updated_at": "2022-12-31 07:12:53",
+            "parent": null,
+            "children": [
+                {
+                    "id": 6,
+                    "name": "Laptoplar",
+                    "description": "Repellat doloremque corporis est ea. Expedita quis tempora ullam repellendus a. Ea repellat aut reprehenderit sunt nemo deleniti eligendi.",
+                    "parent_id": 2,
+                    "created_at": "1990-01-23T17:56:30.000000Z",
+                    "updated_at": "2022-12-31T07:29:19.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 7,
+                    "name": "Masaüstü Bilgisayarlar",
+                    "description": "Et molestias nisi quaerat. Ut iusto eos deleniti pariatur unde dolorum dolore eos. Iusto veritatis eum ea.",
+                    "parent_id": 2,
+                    "created_at": "2011-02-28T22:21:48.000000Z",
+                    "updated_at": "2022-12-31T07:29:35.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Telefonlar",
+            "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+            "parent_id": 4,
+            "created_at": "1972-08-28 07:08:27",
+            "updated_at": "2022-12-31 07:12:27",
+            "parent": {
+                "id": 4,
+                "name": "Telefon",
+                "description": "Vel et qui velit nemo. Consequatur deleniti quibusdam laboriosam laboriosam sed aut labore. Expedita id officia quibusdam amet quam vel quae nostrum.",
+                "parent_id": null,
+                "created_at": "1985-05-08 03:05:54",
+                "updated_at": "2022-12-26 14:12:22",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 3,
+                        "name": "Telefonlar",
+                        "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+                        "parent_id": 4,
+                        "created_at": "1972-08-28T07:13:27.000000Z",
+                        "updated_at": "2022-12-31T07:28:27.000000Z",
+                        "deleted_at": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Telefon Aksesuarları",
+                        "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+                        "parent_id": 4,
+                        "created_at": "1973-05-24T08:10:52.000000Z",
+                        "updated_at": "2022-12-31T07:28:12.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": [
+                {
+                    "id": 1,
+                    "name": "Akıllı Telefonlar",
+                    "description": "Omnis velit laborum vitae facere illo voluptatum quasi. Fugiat nam aliquam rerum sunt exercitationem et. Voluptates est non deserunt sit aliquid minima. Officia ea est beatae incidunt ratione earum.",
+                    "parent_id": 3,
+                    "created_at": "1972-07-28T23:07:06.000000Z",
+                    "updated_at": "2022-12-31T07:31:03.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Telefon",
+            "description": "Vel et qui velit nemo. Consequatur deleniti quibusdam laboriosam laboriosam sed aut labore. Expedita id officia quibusdam amet quam vel quae nostrum.",
+            "parent_id": null,
+            "created_at": "1985-05-08 03:05:54",
+            "updated_at": "2022-12-26 14:12:22",
+            "parent": null,
+            "children": [
+                {
+                    "id": 3,
+                    "name": "Telefonlar",
+                    "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+                    "parent_id": 4,
+                    "created_at": "1972-08-28T07:13:27.000000Z",
+                    "updated_at": "2022-12-31T07:28:27.000000Z",
+                    "deleted_at": null
+                },
+                {
+                    "id": 5,
+                    "name": "Telefon Aksesuarları",
+                    "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+                    "parent_id": 4,
+                    "created_at": "1973-05-24T08:10:52.000000Z",
+                    "updated_at": "2022-12-31T07:28:12.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Telefon Aksesuarları",
+            "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+            "parent_id": 4,
+            "created_at": "1973-05-24 08:05:52",
+            "updated_at": "2022-12-31 07:12:12",
+            "parent": {
+                "id": 4,
+                "name": "Telefon",
+                "description": "Vel et qui velit nemo. Consequatur deleniti quibusdam laboriosam laboriosam sed aut labore. Expedita id officia quibusdam amet quam vel quae nostrum.",
+                "parent_id": null,
+                "created_at": "1985-05-08 03:05:54",
+                "updated_at": "2022-12-26 14:12:22",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 3,
+                        "name": "Telefonlar",
+                        "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+                        "parent_id": 4,
+                        "created_at": "1972-08-28T07:13:27.000000Z",
+                        "updated_at": "2022-12-31T07:28:27.000000Z",
+                        "deleted_at": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "Telefon Aksesuarları",
+                        "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+                        "parent_id": 4,
+                        "created_at": "1973-05-24T08:10:52.000000Z",
+                        "updated_at": "2022-12-31T07:28:12.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": [
+                {
+                    "id": 10,
+                    "name": "Telefon Kılıfları",
+                    "description": "Praesentium quo consequuntur esse assumenda. Possimus et omnis veritatis quo fugit voluptatum incidunt. Facilis eos ipsam id soluta sequi qui a.",
+                    "parent_id": 5,
+                    "created_at": "1975-01-25T19:56:24.000000Z",
+                    "updated_at": "2022-12-31T07:28:43.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Laptoplar",
+            "description": "Repellat doloremque corporis est ea. Expedita quis tempora ullam repellendus a. Ea repellat aut reprehenderit sunt nemo deleniti eligendi.",
+            "parent_id": 2,
+            "created_at": "1990-01-23 17:01:30",
+            "updated_at": "2022-12-31 07:12:19",
+            "parent": {
+                "id": 2,
+                "name": "Bilgisayar",
+                "description": "Aperiam harum qui porro quia suscipit non aut ut. Consequatur aperiam temporibus consequatur vero quasi numquam.",
+                "parent_id": null,
+                "created_at": "1983-06-07 08:06:37",
+                "updated_at": "2022-12-31 07:12:53",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 6,
+                        "name": "Laptoplar",
+                        "description": "Repellat doloremque corporis est ea. Expedita quis tempora ullam repellendus a. Ea repellat aut reprehenderit sunt nemo deleniti eligendi.",
+                        "parent_id": 2,
+                        "created_at": "1990-01-23T17:56:30.000000Z",
+                        "updated_at": "2022-12-31T07:29:19.000000Z",
+                        "deleted_at": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "Masaüstü Bilgisayarlar",
+                        "description": "Et molestias nisi quaerat. Ut iusto eos deleniti pariatur unde dolorum dolore eos. Iusto veritatis eum ea.",
+                        "parent_id": 2,
+                        "created_at": "2011-02-28T22:21:48.000000Z",
+                        "updated_at": "2022-12-31T07:29:35.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": []
+        },
+        {
+            "id": 7,
+            "name": "Masaüstü Bilgisayarlar",
+            "description": "Et molestias nisi quaerat. Ut iusto eos deleniti pariatur unde dolorum dolore eos. Iusto veritatis eum ea.",
+            "parent_id": 2,
+            "created_at": "2011-02-28 22:02:48",
+            "updated_at": "2022-12-31 07:12:35",
+            "parent": {
+                "id": 2,
+                "name": "Bilgisayar",
+                "description": "Aperiam harum qui porro quia suscipit non aut ut. Consequatur aperiam temporibus consequatur vero quasi numquam.",
+                "parent_id": null,
+                "created_at": "1983-06-07 08:06:37",
+                "updated_at": "2022-12-31 07:12:53",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 6,
+                        "name": "Laptoplar",
+                        "description": "Repellat doloremque corporis est ea. Expedita quis tempora ullam repellendus a. Ea repellat aut reprehenderit sunt nemo deleniti eligendi.",
+                        "parent_id": 2,
+                        "created_at": "1990-01-23T17:56:30.000000Z",
+                        "updated_at": "2022-12-31T07:29:19.000000Z",
+                        "deleted_at": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "Masaüstü Bilgisayarlar",
+                        "description": "Et molestias nisi quaerat. Ut iusto eos deleniti pariatur unde dolorum dolore eos. Iusto veritatis eum ea.",
+                        "parent_id": 2,
+                        "created_at": "2011-02-28T22:21:48.000000Z",
+                        "updated_at": "2022-12-31T07:29:35.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": [
+                {
+                    "id": 9,
+                    "name": "Toplama Bilgisayarlar",
+                    "description": "Sint dolores rerum odit omnis. Natus libero quia non tempore qui aut. Consequatur numquam maxime et ducimus repellendus minus.",
+                    "parent_id": 7,
+                    "created_at": "2005-10-04T06:20:45.000000Z",
+                    "updated_at": "2022-12-31T07:29:57.000000Z",
+                    "deleted_at": null
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Tablet",
+            "description": "Debitis accusantium et in autem velit error dolorum. Sapiente qui quia illum necessitatibus quis. Odio voluptatibus doloremque dolorem autem. Odio dignissimos reiciendis ipsum sequi enim officiis.",
+            "parent_id": null,
+            "created_at": "1990-11-15 15:11:43",
+            "updated_at": "2022-12-26 14:12:38",
+            "parent": null,
+            "children": []
+        },
+        {
+            "id": 9,
+            "name": "Toplama Bilgisayarlar",
+            "description": "Sint dolores rerum odit omnis. Natus libero quia non tempore qui aut. Consequatur numquam maxime et ducimus repellendus minus.",
+            "parent_id": 7,
+            "created_at": "2005-10-04 06:10:45",
+            "updated_at": "2022-12-31 07:12:57",
+            "parent": {
+                "id": 7,
+                "name": "Masaüstü Bilgisayarlar",
+                "description": "Et molestias nisi quaerat. Ut iusto eos deleniti pariatur unde dolorum dolore eos. Iusto veritatis eum ea.",
+                "parent_id": 2,
+                "created_at": "2011-02-28 22:02:48",
+                "updated_at": "2022-12-31 07:12:35",
+                "parent": {
+                    "id": 2,
+                    "name": "Bilgisayar",
+                    "description": "Aperiam harum qui porro quia suscipit non aut ut. Consequatur aperiam temporibus consequatur vero quasi numquam.",
+                    "parent_id": null,
+                    "created_at": "1983-06-07 08:06:37",
+                    "updated_at": "2022-12-31 07:12:53",
+                    "parent": null,
+                    "children": [
+                        {
+                            "id": 6,
+                            "name": "Laptoplar",
+                            "description": "Repellat doloremque corporis est ea. Expedita quis tempora ullam repellendus a. Ea repellat aut reprehenderit sunt nemo deleniti eligendi.",
+                            "parent_id": 2,
+                            "created_at": "1990-01-23T17:56:30.000000Z",
+                            "updated_at": "2022-12-31T07:29:19.000000Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": 7,
+                            "name": "Masaüstü Bilgisayarlar",
+                            "description": "Et molestias nisi quaerat. Ut iusto eos deleniti pariatur unde dolorum dolore eos. Iusto veritatis eum ea.",
+                            "parent_id": 2,
+                            "created_at": "2011-02-28T22:21:48.000000Z",
+                            "updated_at": "2022-12-31T07:29:35.000000Z",
+                            "deleted_at": null
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": 9,
+                        "name": "Toplama Bilgisayarlar",
+                        "description": "Sint dolores rerum odit omnis. Natus libero quia non tempore qui aut. Consequatur numquam maxime et ducimus repellendus minus.",
+                        "parent_id": 7,
+                        "created_at": "2005-10-04T06:20:45.000000Z",
+                        "updated_at": "2022-12-31T07:29:57.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": []
+        },
+        {
+            "id": 10,
+            "name": "Telefon Kılıfları",
+            "description": "Praesentium quo consequuntur esse assumenda. Possimus et omnis veritatis quo fugit voluptatum incidunt. Facilis eos ipsam id soluta sequi qui a.",
+            "parent_id": 5,
+            "created_at": "1975-01-25 19:01:24",
+            "updated_at": "2022-12-31 07:12:43",
+            "parent": {
+                "id": 5,
+                "name": "Telefon Aksesuarları",
+                "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+                "parent_id": 4,
+                "created_at": "1973-05-24 08:05:52",
+                "updated_at": "2022-12-31 07:12:12",
+                "parent": {
+                    "id": 4,
+                    "name": "Telefon",
+                    "description": "Vel et qui velit nemo. Consequatur deleniti quibusdam laboriosam laboriosam sed aut labore. Expedita id officia quibusdam amet quam vel quae nostrum.",
+                    "parent_id": null,
+                    "created_at": "1985-05-08 03:05:54",
+                    "updated_at": "2022-12-26 14:12:22",
+                    "parent": null,
+                    "children": [
+                        {
+                            "id": 3,
+                            "name": "Telefonlar",
+                            "description": "Qui aperiam iusto laborum eum. Quos id sunt et. Voluptatem praesentium saepe dolorem itaque accusamus sunt voluptas. Sint cumque odit deleniti animi dolor dolore laborum.",
+                            "parent_id": 4,
+                            "created_at": "1972-08-28T07:13:27.000000Z",
+                            "updated_at": "2022-12-31T07:28:27.000000Z",
+                            "deleted_at": null
+                        },
+                        {
+                            "id": 5,
+                            "name": "Telefon Aksesuarları",
+                            "description": "Debitis dignissimos aut non. Laboriosam magnam dolorem cum neque labore fuga. Officia sint cupiditate quidem et et dolores aspernatur. Aut in soluta voluptate rerum aut neque.",
+                            "parent_id": 4,
+                            "created_at": "1973-05-24T08:10:52.000000Z",
+                            "updated_at": "2022-12-31T07:28:12.000000Z",
+                            "deleted_at": null
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": 10,
+                        "name": "Telefon Kılıfları",
+                        "description": "Praesentium quo consequuntur esse assumenda. Possimus et omnis veritatis quo fugit voluptatum incidunt. Facilis eos ipsam id soluta sequi qui a.",
+                        "parent_id": 5,
+                        "created_at": "1975-01-25T19:56:24.000000Z",
+                        "updated_at": "2022-12-31T07:28:43.000000Z",
+                        "deleted_at": null
+                    }
+                ]
+            },
+            "children": []
+        }
+    ],
+    "message": "Categories retrieved successfully.",
+    "meta": {
+        "locale": "en"
+    }
+}
